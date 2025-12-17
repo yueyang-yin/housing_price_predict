@@ -65,7 +65,7 @@ All trained models, feature definitions, and evaluation metrics are stored under
 housing_price_predict_project/
 ├── data/            # Raw and processed datasets
 ├── model/           # Training and inference scripts
-├── notebook/ # Notebooks (data cleaning, feature engineering, model training)
+├── notebook/        # Notebooks (data cleaning, feature engineering, model training)
 ├── report/          # Detailed technical report
 ├── README.md        # Project overview (this file)
 ├── LICENSE
