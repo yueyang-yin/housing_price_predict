@@ -2,11 +2,9 @@
 
 This repository contains an **end-to-end machine learning practice project** for residential house price prediction. The primary goal of the project is to practice data preprocessing, feature engineering, model selection, and basic ML engineering workflows.
 
-> ⚠️ **Disclaimer**
+> **Disclaimer**
 > This project is created **for learning and practice purposes only**.
 > The models, results, and conclusions presented here **should not be used as a reference for real-world decision-making, investment analysis, or commercial applications**.
-
----
 
 ## Project Overview
 
@@ -20,9 +18,7 @@ The project covers the complete pipeline of a typical supervised learning task:
 
 A detailed technical report describing the modeling process, evaluation metrics, and example predictions is provided separately.
 
-📄 **Full technical report**: [report/README.md](report/README.md)
-
----
+**Full technical report**: [report/README.md](report/README.md)
 
 ## Dataset
 
@@ -32,12 +28,10 @@ The dataset used in this project is sourced from Kaggle:
 * Platform: Kaggle
 * Purpose: Educational and exploratory analysis
 
-🔗 **Dataset source**:
+**Dataset source**:
 [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/shree1992/housedata)
 
 Please refer to the Kaggle page for the original dataset description, context, and licensing information.
-
----
 
 ## Reproducibility (Quick Start)
 
@@ -57,8 +51,6 @@ python3 model/src/predict.py --input data/raw_input.csv --mode raw
 
 All trained models, feature definitions, and evaluation metrics are stored under `model/artifacts/`.
 
----
-
 ## Repository Structure
 
 ```text
@@ -71,8 +63,6 @@ housing_price_predict_project/
 ├── LICENSE
 └── .gitignore
 ```
-
----
 
 ## Notes
 
